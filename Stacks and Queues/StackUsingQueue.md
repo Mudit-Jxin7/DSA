@@ -1,4 +1,8 @@
 Approach 1 : two queues
+
+
+![image](https://github.com/Mudit-Jxin7/DSA/assets/97677133/c1506763-0401-40c8-b1c8-913097133777)
+
 ```
 class MyStack {
     queue <int> q1;
