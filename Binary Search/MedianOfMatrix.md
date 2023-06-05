@@ -25,5 +25,3 @@ public:
     }
 };
 ```
-
-Another variant : https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
