@@ -11,7 +11,7 @@ public:
     }
     
     int median(vector<vector<int>> &matrix, int R, int C){
-        int low = 1 , high = 1e9 , n = matrix.size() , m = matrixm[0].size;
+        int low = 1 , high = 1e9 , n = matrix.size() , m = matrix[0].size;
         while(low <= high){
             int mid = (low + high) >> 1;
             int cnt = 0;
